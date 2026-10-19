@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "reporting-service"
+  x-cortex-tag: "reporting-service"
+  x-cortex-description: "Scheduled and on-demand report generation API"
+  x-cortex-owners:
+    - type: group
+      name: "Customer Data Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001503"
+    apm_name: "Analytics & Business Intelligence"
+    cost_center: "CC-4511"
